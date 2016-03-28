@@ -22,19 +22,14 @@ Time spent: **27** hours in total
 - [X] After creating a new tweet, a user should be able to view it in the timeline immediately without refetching the timeline from the network.
 
 
-**additional** features:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The video tuts not easy to know (may listen english is not easy for learn how the app work). I think documents is better.
+The video tuts not easy to know (might listen english is not easy for learn how the app work). I think documents is better.
